@@ -5,7 +5,8 @@
 - 🔭 Hoje trabalho com Suporte ao Cliente, Help Desk
 - 🌱 Estudando JAVA
 - 💬 email renan.victor325@outlook.com
-- 📫 Pode me contatar via Linkedin : https://www.linkedin.com/in/renan-victor-3b4883169/
+- 📫 Pode me contatar via Linkedin
+- [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renan-victor-3b4883169/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=reenanrs1&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reenanrs1&layout=compact&show_icons=true&theme=dark&hide=javascript,html)](https://github.com/reenanrs1/github-readme-stats)
