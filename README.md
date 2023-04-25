@@ -13,7 +13,7 @@
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)]()
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=reenanrs1&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=reenanrs1&show_icons=true&theme=light)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reenanrs1&layout=compact&show_icons=true&theme=dark&hide=javascript,html)](https://github.com/reenanrs1/github-readme-stats)
 
 <div style="display: inline_block"><br>
