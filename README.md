@@ -14,7 +14,7 @@
 <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=reenanrs1&show_icons=true&theme=light)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reenanrs1&layout=compact&show_icons=true&theme=dark&hide=javascript,html)](https://github.com/reenanrs1/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reenanrs1&layout=compact&show_icons=true&theme=light&hide=javascript,html)](https://github.com/reenanrs1/github-readme-stats)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
