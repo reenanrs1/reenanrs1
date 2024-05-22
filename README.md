@@ -21,6 +21,10 @@
 
 <br>
 
+<p align="center" dir="auto">
+    <a href="#">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reenanrs1k&layout=compact&show_icons=true&theme=dark&hide=PowerShell,Batchfile">
+</p>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=reenanrs1&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reenanrs1&layout=compact&show_icons=true&theme=dark)](https://github.com/reenanrs1/github-readme-stats)
 
