@@ -3,7 +3,7 @@
 
 
 - 🔭 Hoje trabalho com Suporte ao Cliente, Help Desk
-- 🌱 Estudando JavaScript
+- 🌱 Estudando Ptyhon
 - 📫 Pode me contatar via Linkedin ou pelo Email
 - [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renan-victor-3b4883169/)
 - [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:renan.victor325@outlook.com)
