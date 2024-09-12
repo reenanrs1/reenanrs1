@@ -19,7 +19,7 @@
 [![.ENV](https://img.shields.io/badge/.ENV-ECD53F.svg?style=for-the-badge&logo=dotenv&logoColor=black)]()
 
 
-![Snake animation](https://github.com/GabrielaZanetti/GabrielaZanetti/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/reenanrs1/reenanrs1/blob/output/github-contribution-grid-snake.svg)
 <br>
 <p align="center" dir="auto">
     <a href="#">
